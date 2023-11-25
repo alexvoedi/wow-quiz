@@ -1,0 +1,68 @@
+[
+  {
+    "id": 74505,
+    "name": {
+      "de": "Thruk",
+      "en": "Thruk"
+    },
+    "quotes": [
+      {
+        "text": {
+          "de": "Thruk will Wächterschatz!"
+        }
+      },
+      {
+        "text": {
+          "de": "Ha, kleine Fische!"
+        }
+      },
+      {
+        "text": {
+          "de": "Haha, Thruk hat euch am Haken!"
+        }
+      },
+      {
+        "text": {
+          "de": "Bah, der Fang ist zu hässlich zum Essen!"
+        }
+      }
+    ]
+  },
+  {
+    "id": 7800,
+    "name": {
+      "de": "Robogenieur Thermadraht"
+    },
+    "quotes": [
+      {
+        "text": {
+          "de": "Thronräuber, Gnomeregan ist mein!"
+        }
+      },
+      {
+        "text": {
+          "de": "Meine Maschinen sind die Zukunft, sie vernichten euch alle!"
+        }
+      },
+      {
+        "text": {
+          "de": "Explosionen, mehr Explosionen, ich brauche mehr Explosionen!"
+        }
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "name": {
+      "de": "Alex"
+    },
+    "quotes": []
+  },
+  {
+    "id": 1,
+    "name": {
+      "de": "Ava"
+    },
+    "quotes": []
+  }
+]
